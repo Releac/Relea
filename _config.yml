@@ -5,16 +5,15 @@
 # 你的博客名称，请用你想要的博客名替换“LOFFER”，以下修改都可类似处理
 # 注意，“name: LOFFER”，冒号后面的空格不可以省略。
 # 井号后面的文字是说明文档，不会被程序读取。
-name: LOFFER
-# 描述/签名
-description: 一个可以fork的博客
-
+名称： Releac
+＃描述/签名
+description: HI
 #
 # 下面的设定都是可选的
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logo.png
+avatar: file:///D:/%E5%A3%81%E7%BA%B8/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20190812172430.jpg
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
@@ -61,7 +60,7 @@ footer-text: Copyright (c) 2019 来自中世界
 # 评论，注意，请不要同时添加多种不同的评论区
 
 # 输入Disqus shortname，即可添加评论区
-disqus: loffer #shortname
+disqus ：shortname
 
 # 输入Gitalk相关设定，即可添加评论区
 gitalk:
